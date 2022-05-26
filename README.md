@@ -10,7 +10,7 @@
 
 Contact Me: [Linkedin](https://www.linkedin.com/in/ankita-mondal-54a809231)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitagitx &theme=radical)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitagitx &theme=radical)
 
 
 
