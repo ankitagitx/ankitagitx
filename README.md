@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Gmail -> ankitamondal3113@gmail.com
 - 😄 Pronouns: She/Her
 
-Contact Me: Linkedin(https://www.linkedin.com/in/ankita-mondal-54a809231)
